@@ -1,36 +1,37 @@
 <div align="center">
-
-# 👋 机场CN · jichangcn.cc
-
-**硬核且中立的网络加速器评测基准**
-
-[![Website](https://img.shields.io/badge/官网-jichangcn.cc-0f766e?style=for-the-badge&logo=google-chrome)](https://jichangcn.cc)
-[![Updates](https://img.shields.io/badge/状态-每日更新-success?style=for-the-badge)](https://jichangcn.cc)
-
-通过深度测速、晚高峰丢包分析与流媒体解锁追踪，为您筛选真正稳定可靠的 IPLC/IEPL 高端专线与高性价比 BGP 机场。
-
+  <h1>👋 欢迎来到我的主页</h1>
+  <p>我是一名致力于分享网络优化、科学上网技巧以及优质代理服务的博主。这里是我运营的几个专注网络测速与工具分享的站点。</p>
 </div>
 
 ---
 
-### 📦 仓库导航
+### ✈️ 我的“机场”与网络工具博客
 
-| 仓库分类 | 内容简介 |
-| :--- | :--- |
-| 🏆 [**2026-jichang-tuijian**](https://jichangcn.cc) | **2026 机场推荐排行榜**：深度测评 + 晚高峰测速图 + 解锁追踪 |
-| 🆓 [**free-nodes**](https://jichangcn.cc/free-nodes) | **每日免费节点**：每天 0 点自动更新，Clash / v2ray 订阅一键导入 |
-| 🍎 [**share-apple-id**](https://jichangcn.cc/shared-id) | **每日共享 Apple ID**：免费美区/港区苹果 ID，畅享 Shadowrocket |
-| 📖 [**client-tutorials**](https://jichangcn.cc/topics) | **全平台客户端教程**：Windows / Mac / iOS / Android 配置指南 |
+以下是我目前正在维护的站点，致力于为你提供更优质的网络体验：
+
+1. **[jichangseo.org](https://jichangseo.org)**
+   *专业的机场评测与收录站点，分享优质的翻墙节点、线路测速报告及高性价比的代理服务推荐。*
+2. **[jichangcn.cc](https://jichangcn.cc)**
+   *面向国内用户的科学上网导航站，汇集了最新的机场资讯、防失联发布页以及各类网络工具资源。*
+3. **[sharkasmr.cc](https://sharkasmr.cc)**
+   *提供高速、稳定的科学上网节点分享与机场推荐，助你畅游国际互联网。*
+4. **[v2raynwiki.org](https://v2raynwiki.org)**
+   *全面的 V2rayN 客户端使用指南，涵盖各类代理协议（Vmess/Vless/Trojan等）的配置教程与常见问题解答。*
 
 ---
 
-### 🚀 更多内容
+### 🛠️ 常用技术与工具
+![V2Ray](https://img.shields.io/badge/V2Ray-%232C2C2C.svg?style=for-the-badge&logo=v2ray&logoColor=white)
+![Clash](https://img.shields.io/badge/Clash-%23FF4F00.svg?style=for-the-badge&logo=clash&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-%2300599C.svg?style=for-the-badge&logo=wi-fi&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%23117BAC.svg?style=for-the-badge&logo=wordpress&logoColor=white)
 
-- 🏡 **主站（横向对比表·常见问题·图文教程）**：[jichangcn.cc](https://jichangcn.cc)
-- 📊 **品牌库**：收录并追踪行业最头部的网络加速服务商。
-
-<br/>
-
+### 📈 GitHub 数据
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kevin092333&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=你的GITHUB用户名&show_icons=true&theme=radium&locale=cn" alt="GitHub Stats" />
+</div>
+
+---
+<div align="center">
+  <i>"打破网络边界，探索无限可能。"</i>
 </div>
