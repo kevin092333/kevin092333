@@ -6,6 +6,11 @@
 <div align="center">
   <h2>✈️ 致力于寻找最快、最稳定的跨国网络体验</h2>
   <p>💡 分享节点 | 📡 测速评测 | 📖 客户端教程 | 🌍 流媒体解锁</p>
+  
+  <!-- Telegram 联系按钮 -->
+  <a href="https://t.me/kevin9233" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-@kevin9233-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Contact me on Telegram">
+  </a>
 </div>
 
 <br>
@@ -64,14 +69,12 @@
 ### 📊 个人数据 (GitHub Stats)
 
 <p align="center">
-  <!-- 这里的 "你的GITHUB用户名" 请务必替换为你自己的账号 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=你的GITHUB用户名&show_icons=true&theme=tokyonight&locale=cn&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=你的GITHUB用户名&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kevin092333&show_icons=true&theme=tokyonight&locale=cn&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kevin092333&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
 </p>
 
 <div align="center">
-  <!-- 这里的 "你的GITHUB用户名" 请务必替换为你自己的账号 -->
-  <img src="https://komarev.com/ghpvc/?username=你的GITHUB用户名&label=主页访问量&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=kevin092333&label=主页访问量&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
 <br>
