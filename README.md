@@ -66,15 +66,18 @@
 
 <br>
 
-### 📊 个人数据 (GitHub Stats)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kevin092333&show_icons=true&theme=tokyonight&locale=cn&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kevin092333&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
-</p>
+### 🌟 欢迎交流 (Welcome)
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kevin092333&label=主页访问量&color=0e75b6&style=flat" alt="Profile Views" />
+  <!-- 动态打字机效果，非常酷炫 -->
+  <a href="#">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;I'm+a+Network+Enthusiast;Feel+free+to+contact+me+on+Telegram!" alt="Typing SVG" />
+  </a>
+</div>
+
+<div align="center">
+  <!-- 修复后的主页访问量（去掉了中文参数，防止 GitHub 拦截） -->
+  <img src="https://komarev.com/ghpvc/?username=kevin092333&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
 <br>
